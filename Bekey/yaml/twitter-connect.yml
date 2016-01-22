@@ -1,0 +1,4 @@
+twitter-connect:
+    info-connect: {consumerKey: 'PTGNMgLM7raUAo1G3WYxY1518', consumerSecret: 'shD3a3nL2cd3WaahWxpzfmGTQ9eyBaXZWQpKolix5Dtq5sjda9', accesToken: '72238149-WuP8qxbwAcQIEWfsDMIpUkRnEEELDsPk7otgoDqSd', accesTokenSecret: 'f93gJzH54Nzrvb1axSRfaUIQnwbxnR7W0OORult2bkFxl' }
+    save-fields: { network_id: '', first_name: '', type: 'twitter' }
+    save-table: { name: 'users' }

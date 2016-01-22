@@ -1,0 +1,4 @@
+facebook-connect:
+    info-connect: {appID: '', appSecretKey: '', redirect_uri: '', scope: ['email', 'user_likes']}
+    save-fields: { network_id: '', first_name: '', last_name: '', email: '', type: 'facebook' }
+    save-table: { name: 'users' }

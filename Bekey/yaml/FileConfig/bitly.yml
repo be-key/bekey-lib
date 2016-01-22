@@ -1,0 +1,3 @@
+bitly-connect:
+    token: { client_id: '', client_secret: '' }
+    genericToken: { token: '5b825f492dd6486aa2a11762d9e625e817e9f13d' }

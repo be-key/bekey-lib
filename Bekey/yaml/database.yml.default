@@ -1,0 +1,2 @@
+databases:
+    default: {hostname: , username: , password: , database: , charset: }
